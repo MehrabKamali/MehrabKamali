@@ -2,22 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Mehrab%20Kamalinasab&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Python%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=16" />
 
-</div>
-
-<div align="center">
-
-<br/><br/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MehrabKamali&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://github.com/MehrabKamali?tab=followers">
-  <img src="https://img.shields.io/github/followers/MehrabKamali?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS" />
-</a>
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
