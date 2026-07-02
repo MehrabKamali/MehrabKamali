@@ -125,7 +125,7 @@ print(me.motto)
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lwfyhmzw3zskca2b5iqmmdq5wq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lwfyhmzw3zskca2b5iqmmdq5wq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" />
   </a>
 </div>
 
