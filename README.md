@@ -2,6 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Mehrab%20Kamalinasab&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Python%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=16" />
 
+</div>
+
+<div align="center">
+
+<img src="https://github.com/MehrabKamali.png" width="155" style="border-radius: 50%;" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Flutter+%26+Dart+Developer+📱;Python+Backend+Engineer+🐍;DevOps+%26+Linux+Enthusiast+🐧;Building+Beautiful+Mobile+Apps+✨;Clean+Code+%7C+Clean+Architecture+🏗️" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MehrabKamali&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/MehrabKamali?tab=followers">
+  <img src="https://img.shields.io/github/followers/MehrabKamali?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS" />
+</a>
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -63,12 +83,14 @@ print(me.motto)
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
+
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ### 🐍 Backend
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -76,12 +98,14 @@ print(me.motto)
 </p>
 
 ### 🎨 Frontend & Styling
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### ⚙️ DevOps & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -109,18 +133,6 @@ print(me.motto)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehrabKamali&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true&area=true&area_color=00D9FF" width="95%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehrabKamali/MehrabKamali/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehrabKamali/MehrabKamali/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/MehrabKamali/MehrabKamali/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
